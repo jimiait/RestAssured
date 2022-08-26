@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2967" started-at="2022-08-25T23:45:56 CDT" finished-at="2022-08-25T23:45:59 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2967" started-at="2022-08-25T23:45:56 CDT" finished-at="2022-08-25T23:45:59 CDT">
+      <class name="testCases.CreateOneProduct">
+        <test-method status="PASS" signature="createOneProduct()[pri:1, instance:testCases.CreateOneProduct@3cb1ffe6]" name="createOneProduct" duration-ms="1786" started-at="2022-08-25T23:45:56 CDT" finished-at="2022-08-25T23:45:57 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOneProduct -->
+        <test-method status="PASS" signature="readAllProducts()[pri:2, instance:testCases.CreateOneProduct@3cb1ffe6]" name="readAllProducts" duration-ms="722" started-at="2022-08-25T23:45:57 CDT" finished-at="2022-08-25T23:45:58 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAllProducts -->
+        <test-method status="PASS" signature="readOneProduct()[pri:3, instance:testCases.CreateOneProduct@3cb1ffe6]" name="readOneProduct" duration-ms="432" started-at="2022-08-25T23:45:58 CDT" finished-at="2022-08-25T23:45:59 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOneProduct -->
+      </class> <!-- testCases.CreateOneProduct -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
